@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "SPIDER BOT",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "SPIDER",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "in-6.hgnetwork.xyz",
+    "port": 25570,
     "version": "",
     "try-creative": false
   },
